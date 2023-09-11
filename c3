@@ -20,7 +20,7 @@
 </head>
 <body>
   <div class="container">
-    <!-- Your responsive web design content goes here -->
+    <!-- Our responsive web design content goes here -->
   </div>
 </body>
 </html>
